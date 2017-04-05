@@ -1,6 +1,6 @@
 <?php
 	// require Class
-	require("treeViewer.php");
+	require("maindir/treeViewer.php");
 	// Call Object
 	$dir = new fileTreeView();
 	// Call function to get the current files in directory
